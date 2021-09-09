@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <div class = "showGoodWrapper">
     <button @click = "goBack">Back</button>
-    <div class = "showGoodWrapper">
+    <div class = "goodWrapper">
       <p class = "showGoodTitle">{{findGoodById.title}}</p>
       <div class>
         <img :src = "getImgUrl" class = "showGoodImg"/>
@@ -59,7 +59,8 @@ export default {
 <style scoped lang = "scss">
   @import "~/assets/css/variables";
   button {
-    margin: 15px 0 0 15px;
+    position: relative;
+    margin: 10px auto 0 10px;
     height: 30px;
     width: 70px;
   }
@@ -68,6 +69,15 @@ export default {
     display: flex;
     flex-direction: column;
     align-items: center;
+  }
+
+  .goodWrapper {
+    width: 100%;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
   
   .showGoodTitle {

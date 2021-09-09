@@ -9,3 +9,9 @@
     }
   }
 </script>
+
+<script>
+  export default {
+    layout: "myLayout"
+  }
+</script>

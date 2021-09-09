@@ -9,3 +9,9 @@
     display: flex;
   }
 </style>
+
+<script>
+  export default {
+    layout: "myLayout"
+  }
+</script>
