@@ -7,6 +7,7 @@
 
 <style scoped lang = "scss">
   @import "~/assets/css/variables";
+  
   .container {
     margin: 0 auto;
     background-color: $main-color;
@@ -15,7 +16,7 @@
   }
 
   .contentWrapper {
-    min-height: 93vh;
     display: flex;
+    min-height: 500px;
   }
 </style>
