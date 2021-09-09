@@ -1,0 +1,44 @@
+[
+  {
+    "name": "books-adventure",
+    "path": "/books/adventure",
+    "component": "C:\\\\Projects\\\\nuxt-shop\\\\pages\\\\books\\\\adventure.vue",
+    "chunkName": "pages/books/adventure",
+    "_name": "_3a8c1aae"
+  },
+  {
+    "name": "books-classic",
+    "path": "/books/classic",
+    "component": "C:\\\\Projects\\\\nuxt-shop\\\\pages\\\\books\\\\classic.vue",
+    "chunkName": "pages/books/classic",
+    "_name": "_ed68212a"
+  },
+  {
+    "name": "phones-android",
+    "path": "/phones/android",
+    "component": "C:\\\\Projects\\\\nuxt-shop\\\\pages\\\\phones\\\\android.vue",
+    "chunkName": "pages/phones/android",
+    "_name": "_f868b8d2"
+  },
+  {
+    "name": "phones-iphone",
+    "path": "/phones/iphone",
+    "component": "C:\\\\Projects\\\\nuxt-shop\\\\pages\\\\phones\\\\iphone.vue",
+    "chunkName": "pages/phones/iphone",
+    "_name": "_95c83aa6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Projects\\\\nuxt-shop\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_87fb0242"
+  },
+  {
+    "name": "category-subcategory-idProduct",
+    "path": "/:category/:subcategory?/:idProduct?",
+    "component": "C:\\\\Projects\\\\nuxt-shop\\\\pages\\\\_category\\\\_subcategory\\\\_idProduct.vue",
+    "chunkName": "pages/_category/_subcategory/_idProduct",
+    "_name": "_6dffafbe"
+  }
+]

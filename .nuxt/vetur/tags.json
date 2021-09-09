@@ -1,0 +1,26 @@
+{
+  "Categories": {
+    "description": "Auto imported from components/Categories.vue"
+  },
+  "CategoryItem": {
+    "description": "Auto imported from components/CategoryItem.vue"
+  },
+  "GoodItem": {
+    "description": "Auto imported from components/GoodItem.vue"
+  },
+  "Goods": {
+    "description": "Auto imported from components/Goods.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "ShowGood": {
+    "description": "Auto imported from components/ShowGood.vue"
+  },
+  "SubCategories": {
+    "description": "Auto imported from components/SubCategories.vue"
+  },
+  "SubCategoryItem": {
+    "description": "Auto imported from components/SubCategoryItem.vue"
+  }
+}
