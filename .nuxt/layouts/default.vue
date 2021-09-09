@@ -7,6 +7,7 @@
 
 <style scoped lang = "scss">
   @import "~/assets/css/variables";
+  
   .container {
     margin: 0 auto;
     background-color: $main-color;
